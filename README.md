@@ -86,7 +86,7 @@ Using Python, SQL and Power BI, the analysis identifies seasonal demand trends, 
 
 ---
 
-##Dashboard Preview
+## Dashboard Preview
 
 ![Hotel_Booking_Demand_Analysis](Dashboard/Dashboard.png)
 
